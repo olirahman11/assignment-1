@@ -209,4 +209,33 @@ input{
   font-family: 'Open Sans', sans-serif;
   margin-top: 15px;
 }
+span{
+  color: #E55473;
 
+}
+.foot-container{
+  text-align: center;
+  background-color:  #111010;
+  color:#FFFFFF;
+  padding: 120px 600px;
+}
+.foot-title{
+        font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 48px;
+  margin-bottom: 0px;
+}
+.foot-description{
+          font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  color: rgba(181, 179, 179, 0.9);
+  font-size: 18px;
+}
+.foot-rules{
+          font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  color:  rgba(255, 255, 255, 0.40);
+}
+
+
+/* finished */
