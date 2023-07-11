@@ -1,0 +1,38 @@
+.banner-main{
+ background-color:  rgba(229, 84, 115, 0.10);
+}
+.banner-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 50px 250px 0px 250px;
+ 
+
+}
+.banner-title{
+  color: #272727;
+ font-family: 'Lato', sans-serif;
+ font-family: 'Open Sans', sans-serif;
+ font-size: 80px;
+ margin: 0px 0px;
+ 
+}
+.banner-description{
+  color: rgba(39, 39, 39, 0.60);
+   font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  margin: 30px 0px;
+}
+
+.btn{
+  padding: 20px 43px;
+  border-radius: 8px;
+  background: #E55473;
+  border: none;
+  color:#FFFFFF
+}
+btn:hover {
+  color: #E55473;
+  font-size: 25px;
+}
