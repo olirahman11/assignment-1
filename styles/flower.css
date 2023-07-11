@@ -1,5 +1,9 @@
 .banner-main{
  background-color:  rgba(229, 84, 115, 0.10);
+ background-size: 100vh;
+}
+.banner-photo{
+  padding-top: 100px;
 }
 .banner-container{
   display: flex;
@@ -113,7 +117,7 @@ figure{
   display: flex;
 
   justify-content: space-between;
-  padding: 100px 280px 100px 280px ;
+  padding: 100px 400px 100px 400px ;
 }
 .discount-info{
   text-align: center;
