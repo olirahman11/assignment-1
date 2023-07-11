@@ -106,3 +106,34 @@ figure{
   font-size: 24px;
 
 }
+.service{
+  margin-bottom: 120px;
+}
+.discount-service{
+  display: flex;
+
+  justify-content: space-between;
+  padding: 100px 280px 100px 280px ;
+}
+.discount-info{
+  text-align: center;
+  margin-top: 130px;
+}
+.discount-container{
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+}
+.discount-title{
+  color: #272727;
+   font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+.discount-description{
+  color: rgba(39, 39, 39, 0.60);
+  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  margin-top: 20px;
+}
