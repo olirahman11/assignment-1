@@ -32,7 +32,6 @@
   border: none;
   color:#FFFFFF
 }
-btn:hover {
-  color: #E55473;
-  font-size: 25px;
+.features-info{
+  text-align: center;
 }
