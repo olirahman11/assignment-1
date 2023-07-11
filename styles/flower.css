@@ -87,3 +87,22 @@ font-family: 'Open Sans', sans-serif;
 margin-top: 30px;
 
 }
+.service-section{
+  display: flex;
+  margin: 120px 240px;
+  justify-content: center;
+  border-radius: 8px;
+  background-color: rgba(39, 39, 39, 0.05);
+  padding: 80px 200px
+}
+figure{
+  text-align: center;
+  margin: 30px;
+}
+.caption-dec{
+  color: rgba(39, 39, 39, 0.80);
+  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+
+}
