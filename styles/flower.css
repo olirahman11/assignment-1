@@ -174,4 +174,39 @@ color: #272727;
 
 .instagram-container{
    margin-bottom: 120px;
+   
+   
+
 }
+
+
+.subscribe-container{
+  text-align: center;
+background-image: url("../Flower Asset/Rectangle 9.png");
+background-repeat: no-repeat;
+padding: 120px 200px;
+margin-left: 350px;
+margin-bottom: 120px;
+
+}
+
+input{
+  border: none;
+  padding: 20px 200px 20px 20px;
+  border-radius: 5px;
+}
+.subscribe-title{
+    font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  color: #272727;
+  font-size: 48px;
+  margin-bottom: 0px;
+}
+.subscribe-description{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 18px;
+      font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 15px;
+}
+
