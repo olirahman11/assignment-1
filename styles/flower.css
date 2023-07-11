@@ -126,6 +126,7 @@ figure{
 .discount-container{
   border-radius: 8px;
   background: rgba(229, 84, 115, 0.05);
+  margin-bottom: 120px;
 }
 .discount-title{
   color: #272727;
@@ -140,4 +141,37 @@ figure{
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   margin-top: 20px;
+}
+
+.instagram-info{
+  text-align: center;
+}
+.instagram-title{
+color: #272727;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 48px;
+  margin-bottom: 0px;
+
+}
+.instagram-description{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 20px;
+  margin-bottom: 40px;
+
+}
+.instagram-photos{
+  margin-left: 180px;
+  display: flex;
+}
+.photo-dec{
+  width: 342px;
+  height: 396px;
+}
+
+.instagram-container{
+   margin-bottom: 120px;
 }
